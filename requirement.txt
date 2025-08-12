@@ -1,0 +1,30 @@
+# Core model and LoRA fine-tuning
+transformers==4.54.1
+peft==0.16.0
+bitsandbytes==0.46.1
+accelerate==1.9.0
+safetensors==0.5.3
+
+# Tokenization
+tokenizers==0.21.4
+sentencepiece==0.2.0
+
+# Data handling
+datasets==4.0.0
+pandas==2.3.1
+numpy==2.1.2
+scikit-learn==1.7.1
+
+# Augmentation & NLP
+nltk==3.9.1
+spacy==3.8.7
+nlpaug==1.1.11
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+
+# Visualization & interaction
+gradio==5.38.2
+
+# PyTorch ecosystem (cu118, match your torch)
+torch==2.7.1+cu118
+torchaudio==2.7.1+cu118
+torchvision==0.22.1+cu118
