@@ -1,0 +1,1 @@
+Because the parameter weight file exceeds 2 GB, it is over GitHub’s size limit and cannot be uploaded, so it has been stored on OneDrive. The link is: https://1drv.ms/f/c/4c31a937fa07fb99/Evkp3XJJqFxJuL69NVySRz4BZ-mXGxineoNcuTkHzGpSWw
